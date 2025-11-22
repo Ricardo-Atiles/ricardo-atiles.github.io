@@ -10,7 +10,7 @@ tags:
 
 ## Skills
 
-**Python** - Data Analysis, Machine Learning, Automation
+**Python** - Data Analysis, Machine Learning, Optimization 
 
 ## Contact Me
 
